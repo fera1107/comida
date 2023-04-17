@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+#menu{
+    list-style:none;
+    top: 0px;
+    position: fixed;
+    background-color: lavender;
+    left: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 100%;
+    z-index: 500;
+}
+    #legal{
+        width: 50%;
+    }
+    .banana{
+        float: left;
+        padding: 5px;
+    }
